@@ -1,0 +1,46 @@
+always	ALWAYS
+am I		ELIZA
+am like	RESEMBLANCE
+are like	COMPARISON
+are they	OTHER
+are you	SELF_PRES
+because	REASON
+can I	ABLE
+can you	CAN
+dreamed	DREAM
+dreaming	DREAM
+dreamt	DREAM
+had a dream	DREAM
+having dreams	DREAM
+I recall	REMINDER
+I remember	REMINDER
+I remind you of	RESEMBLANCE
+I was	ELIZA
+Is like	COMPARISON
+name	NAME
+maybe	PERHAPS
+perhaps	PERHAPS
+my 	MY
+they are	OTHER
+was I	ELIZA
+were they	OTHER
+were you	SELF_PAST
+why can you not	WHY_CAN'T
+why can not you	WHY_CAN'T
+you are	SELF_PRES
+you believe you	BELIEF
+you can not	CAN'T
+you cannot	CAN'T
+you desire	WANT
+you do not	DON'T
+you feel	FEELING
+you long for	WANT
+you need	WANT
+you recall	MEMORY
+you remember	MEMORY
+you think you	BELIEF
+you want	WANT
+you were	SELF_PAST
+you wish for	WANT
+you wish you	BELIEF
+your 	YOUR

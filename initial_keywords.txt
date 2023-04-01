@@ -1,0 +1,29 @@
+bye	END
+exit	END
+hello	GREETING
+hey	GREETING
+hi	GREETING
+everyone	EVERYONE
+everybody	EVERYBODY
+farewell	END
+good day	GREETING
+good evening	GREETING
+good morning	GREETING
+good night	END
+goodbye	END
+goodnight	END
+nah	NO
+no	NO
+sorry	APOLOGY
+what	QUESTION
+why do I not	DON'T_ELIZA
+why do not I	DON'T_ELIZA
+yeah	YES
+yep	YES
+yes	YES
+you are sorry	APOLOGY
+you apologise	APOLOGY
+you apologize	APOLOGY
+you're sorry	APOLOGY
+your apologies	APOLOGY
+your bad	APOLOGY

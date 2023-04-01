@@ -1,0 +1,32 @@
+ABLE	You believe I can $quot, don't you?	You want me to be able to $quot?	Perhaps you would like to be able to $quot yourself.
+ALWAYS	Can you think of a specific example?	When?	What incident are you thinking of?	Really, always?
+APOLOGY	Please don't apologize.	Apologies are not necessary.	What feelings do you have when you apologize?
+BELIEF	Do you really think so?	But you are not sure you $quot.	Do you really doubt you $quot?
+CAN	Whether or not you can $quot depends on you more than on me.	Do you want to be able to $quot?	Perhaps you don't want to $quot.
+CAN'T	How do you know that you can't $quot?	Have you tried?	Perhaps you could $quot now?	Do you really want to be able to $quot?
+COMPARISON	In what way?	What resemblance do you see?	What does that similarity suggest to you?	What other connections do you see?	What do you suppose that resemblance means?	What is the connection, do you suppose?	Could there really be some connection?	How?
+DREAM	You dreamt about $comp?	Have you ever fantasized about $comp while you were awake?	Have you ever fantasized $quot while you were awake?	Have you dreamt about $comp before?	Have you dreamt $quot before?	What does that dream suggest to you?	Do you dream often?	What persons appear in your dreams?	Do you believe that dream has something to do with your problem?
+DON'T	Why don't you $quot?	Do you wish to be able to $quot?	Does that trouble you?
+DON'T_ELIZA	Do you believe I don't $quot?	Perhaps I will $quot in good time.	Should you $quot yourself?	You want me to $quot?
+ELIZA	Why are you interested in whether I am $pred or not?	Would you prefer if I weren't $pred?	Do you sometimes think I am $pred?
+EVERYONE	Really, everyone?	Surely, not everyone.	Can you think of anyone in particular?	Who, for example?	You are thinking of a particular person.	Who, may I ask?	Someone special, perhaps?	You have a particular person in mind, don't you?	Who do you think you're talking about?
+FEELING	Tell me more about such feelings.	Do you often feel $quot?	Do you enjoy feeling $quot?	What does feeling $quot remind you of?
+GREETING	Hello.	It is nice to meet you.	How do you do?	Please state your problem.
+MEMORY	Do you often think of $comp?	Does thinking of $comp bring anything else to mind?	What else do you remember?	Why do you remember $comp just now?	What in the present situation reminds you of $comp?	What is the connection between me and $comp?
+MY	My $poss?	Why are you concerned over my $poss?	What about your own $poss?	Are you worried about someone else's $poss?
+NAME	I am not interested in names.	Please continue.
+NO	Are you saying no just to be negative?	You are being a bit negative.	Why not?
+NONE	I am not sure I understand you fully.	Please go on.	What does that suggest to you?	Do you feel strongly about discussing such things?	I don't understand that.	Why do you say $parrot?	You say $parrot.	Can you elaborate on that?	Do you say $parrot for some special reason?	That's quite interesting.	What are your feelings now?
+OTHER	Did you think $subj might not be $pred?	Would you like it if $subj were not $pred?	What if $subj were not $pred?
+PERHAPS	You don't seem quite certain.	Why the uncertain tone?	Can't you be more positive?	You aren't sure?	Don't you know?
+QUESTION	What do you think?	Why do you ask?	Does that question interest you?	What is it you really want to know?	Are such questions often on your mind?	What answer would please you most?	What comes to your mind when you ask that?	Have you asked such questions before?	Have you asked anyone else?
+REASON	Is that the real reason?	Do any other reasons come to mind?	Does that reason seem to explain anything else?	What other reasons might there be?
+REMINDER	Did you think that I would forget $comp?	Why do you think I should recall $comp now?	What about $comp?	You mentioned $comp.
+RESEMBLANCE	I am like $obj?	What makes you think I am like $obj?	Does it please you to believe I am $obj?	Do you sometimes wish you were $obj?	Perhaps you would like to be $obj.
+SELF_PAST	What if you were $pred?	Do you think you were $pred?	What does "$pred" suggest to you?	Were you really?	Why do you tell me you were $pred now?	Perhaps I already knew you were $pred.	Would you like to believe that you were $pred?	What suggests that you were $pred?	Perhaps you were $pred.	What if you had been $pred?
+SELF_PRES	Are you $pred?	Do you believe you are $pred?	Would you want to be $pred?	You wish I would tell you you are $pred.	What would it mean if you were $pred?	Is it because you are $pred that you came to me?	How long have you been $pred?	Do you believe it normal to be $pred?	Do you enjoy being $pred?
+WANT	What would it mean to you if you got $quot?	Why do you want $quot?	Suppose you got $quot soon.	What if you never got $quot?	What would getting $quot mean to you?	What does wanting $quot have to do with this discussion?
+WHY_CAN'T	Do you think you should be able to $quot?	Do you want to be able to $quot?	Do you believe this will help you to $quot?	Do you have any idea why you can't $quot?
+YES	You seem quite positive.	Are you sure?	I see.	I understand.
+YOUR	Tell me more about your $poss.	Your $poss?	What else comes to mind when you think of your $poss?
+END	!exit
